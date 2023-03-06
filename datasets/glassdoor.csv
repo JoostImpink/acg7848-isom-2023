@@ -1,0 +1,439 @@
+overall_rating,recommendation,outlook,ceo_rating,firm,worklife,culture_values,career,compensation,seniormanagement,year,former_current,job_title,auditor_city,duration,category,department
+4,Missing,Missing,No opinion of CEO,ey,3.5,,3,4,3,2008,Current Employee,auditor,miami,Missing,unknown,audit
+5,Recommends,Missing,Approves of CEO,ey,5,,5,5,5,2008,Current Employee,tax,tampa,Missing,unknown,tax
+5,Recommends,Missing,Approves of CEO,ey,5,,5,4,5,2008,Current Employee,audit staff,tampa,Missing,associate,audit
+3,Missing,Missing,Disapproves of CEO,ey,3,,3,3,2,2008,Current Employee,audit manager,fort lauderdale,Missing,manager,audit
+4,Recommends,Missing,Approves of CEO,ey,4,,4,4,4,2008,Current Employee,advisory staff,tampa,Missing,associate,advisory
+5,Recommends,Missing,Approves of CEO,ey,5,,5,4,5,2008,Current Employee,audit staff,tampa,Missing,associate,audit
+5,Recommends,Missing,Approves of CEO,ey,5,,5,5,5,2008,Current Employee,tax staff,tampa,Missing,associate,tax
+4,Recommends,Missing,No opinion of CEO,ey,4,,4,4,4,2009,Current Employee,senior auditor,fort lauderdale,Missing,associate,audit
+5,Recommends,Missing,Approves of CEO,ey,4.5,,5,3.5,4.5,2010,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+4,Recommends,Missing,Approves of CEO,ey,4,,4,4,4,2010,Current Employee,anonymous employee,orlando,Missing,unknown,unknown
+4,Recommends,Missing,Approves of CEO,ey,4,,4,3.5,3.5,2011,Current Employee,audit senior,orlando,Missing,associate,audit
+5,Recommends,Missing,Approves of CEO,ey,4,,4.5,3.5,4,2012,Current Employee,it audit staff,tampa,Missing,associate,other
+3,Missing,Missing,No opinion of CEO,ey,3,,4,4,3.5,2012,Former Employee,staff auditor,miami,Missing,associate,audit
+3,Recommends,Positive Outlook,Missing,ey,4,3,4,3,3,2012,Current Employee,senior consultant,tampa,More than a year,unknown,advisory
+4,Recommends,Positive Outlook,Missing,ey,3,5,4,4,4,2012,Current Employee,senior auditor,tampa,Less than a year,associate,audit
+4,Recommends,Neutral Outlook,Missing,ey,1,4,4,3,4,2012,Former Employee,it auditor,tampa,More than 3 years,associate,other
+3,Recommends,Positive Outlook,Missing,ey,4,3,4,3,3,2012,Current Employee,senior consultant,tampa,More than a year,unknown,advisory
+4,Recommends,Positive Outlook,Missing,ey,3,4,4,3,4,2013,Current Employee,senior associate,miami,More than 3 years,associate,unknown
+5,Recommends,Positive Outlook,Missing,ey,4,5,5,4,4,2013,Current Employee,tax manager,boca raton,More than 5 years,manager,tax
+4,Recommends,Neutral Outlook,Missing,ey,3,4,4,3,4,2013,Current Employee,senior associate,tampa,More than a year,associate,unknown
+4,Recommends,Neutral Outlook,Missing,ey,3,4,4,4,3,2013,Current Employee,audit staff,miami,More than a year,associate,audit
+4,Recommends,Positive Outlook,Missing,ey,3,5,5,4,5,2013,Current Employee,tax senior ii,tampa,More than 3 years,associate,tax
+2,Doesn't Recommend,Positive Outlook,Missing,ey,4,3,3,4,1,2013,Current Employee,senior advisor,orlando,More than a year,associate,advisory
+5,Recommends,Positive Outlook,Missing,ey,3,4,4,3,4,2013,Current Employee,senior consultant,miami,More than a year,unknown,advisory
+1,Recommends,Neutral Outlook,Missing,ey,3,3,2,4,1,2013,Former Employee,senior consultant,tampa,More than a year,unknown,advisory
+4,Recommends,Neutral Outlook,Missing,ey,2,4,4,2,3,2013,Current Employee,senior assurance associate,tampa,More than a year,associate,audit
+5,Recommends,Positive Outlook,Missing,ey,4,5,5,5,4,2014,Current Employee,"level ii service desk , remote services",orlando,More than 10 years,,other
+5,Recommends,Positive Outlook,Missing,ey,4,4,5,4,4,2014,Former Employee,senior consultant,miami,More than 10 years,unknown,advisory
+2,Doesn't Recommend,Neutral Outlook,Missing,ey,1,2,3,4,1,2014,Former Employee,advisory staff i,tampa,More than a year,associate,advisory
+5,Recommends,Positive Outlook,Missing,ey,3,4,3,3,3,2015,Former Employee,cpa,miami,More than 5 years,unknown,audit
+3,Missing,Missing,No opinion of CEO,ey,1,2,3,5,2,2015,Current Employee,executive assistant,tampa,Less than a year,staff,other
+4,Recommends,Positive Outlook,Missing,ey,2,5,4,5,4,2015,Current Employee,it audit staff,boca raton,More than a year,associate,other
+4,Recommends,Positive Outlook,Missing,ey,2,4,5,4,3,2015,Former Employee,audit senior,miami,More than a year,associate,audit
+2,Doesn't Recommend,Negative Outlook,Missing,ey,2,3,3,1,2,2015,Current Employee,assurance services senior,miami,More than 3 years,associate,audit
+2,Doesn't Recommend,Positive Outlook,Missing,ey,2,3,3,4,3,2015,Former Employee,anonymous employee,miami,Missing,unknown,unknown
+4,Recommends,Positive Outlook,Missing,ey,3,5,5,4,3,2015,Current Employee,senior auditor,jacksonville,More than 3 years,associate,audit
+4,Recommends,Neutral Outlook,Missing,ey,3,5,5,4,3,2016,Former Employee,advisory manager,miami,Missing,manager,advisory
+4,Recommends,Positive Outlook,Missing,ey,3,4,3,2,4,2016,Current Employee,vice president/director of programming,boca raton,More than 10 years,director,other
+5,Recommends,Positive Outlook,Missing,ey,4,5,5,4,5,2016,Former Employee,senior manager,jacksonville,Less than a year,manager,unknown
+1,Doesn't Recommend,Positive Outlook,Missing,ey,1,3,5,1,3,2016,Current Employee,audit manager,tampa,More than 5 years,manager,audit
+2,,,,ey,1,4,5,3,2,2016,Current Employee,anonymous employee,tampa,Less than a year,unknown,audit
+5,Recommends,Positive Outlook,Missing,ey,5,5,5,5,5,2016,Former Employee,anonymous employee,miami,Missing,unknown,unknown
+4,Recommends,Positive Outlook,Missing,ey,3,5,5,4,4,2016,Current Employee,audit senior,boca raton,More than a year,associate,audit
+4,Missing,Positive Outlook,Missing,ey,3,5,4,4,3,2016,Current Employee,senior consultant,jacksonville,Less than a year,unknown,advisory
+4,Recommends,Positive Outlook,Missing,ey,3,5,5,4,3,2016,Current Employee,assistant director,miami,More than a year,director,unknown
+5,Recommends,Positive Outlook,Missing,ey,3,5,5,4,4,2016,Current Employee,senior iii,orlando,More than 3 years,associate,unknown
+3,Recommends,Positive Outlook,Missing,ey,1,5,4,5,3,2016,Current Employee,senior consultant,tampa,More than 3 years,unknown,advisory
+4,,,,ey,3,5,4,4,,2016,Former Employee,anonymous employee,orlando,Less than a year,unknown,unknown
+1,Doesn't Recommend,Neutral Outlook,Missing,ey,5,2,2,2,2,2017,Former Employee,associate,jacksonville,More than a year,associate,unknown
+3,Doesn't Recommend,Neutral Outlook,Missing,ey,1,2,3,3,3,2017,Current Employee,anonymous employee,miami,Missing,unknown,unknown
+5,Recommends,Positive Outlook,Missing,ey,5,5,5,4,5,2017,Current Employee,audit senior,jacksonville,More than 3 years,associate,audit
+1,Doesn't Recommend,Negative Outlook,Missing,ey,2,1,1,4,1,2017,Current Employee,anonymous employee,jacksonville,Missing,unknown,unknown
+4,Recommends,Positive Outlook,Missing,ey,2,5,5,3,5,2017,Current Employee,tax staff,tampa,More than a year,associate,tax
+3,Doesn't Recommend,Neutral Outlook,Missing,ey,1,2,2,2,2,2017,Current Employee,senior,tampa,More than 3 years,associate,unknown
+3,Doesn't Recommend,Neutral Outlook,Missing,ey,4,5,1,2,4,2017,Current Employee,associate analyst,jacksonville,More than a year,analyst,unknown
+5,Recommends,Positive Outlook,Missing,ey,2,5,5,4,4,2017,Current Employee,manager,orlando,More than 3 years,manager,unknown
+5,Recommends,Missing,Approves of CEO,pwc,5,,5,4.5,5,2008,Current Employee,senior associate,tampa,Missing,associate,unknown
+3,Recommends,Missing,No opinion of CEO,pwc,1,,4,3,4,2008,Current Employee,audit senior associate,tampa,Missing,associate,audit
+4,Recommends,Missing,No opinion of CEO,pwc,4,,5,3.5,5,2008,Current Employee,audit associate,fort lauderdale,Missing,associate,audit
+4,Recommends,Missing,Approves of CEO,pwc,4.5,,3.5,3,4,2008,Current Employee,researcher,tampa,Missing,,advisory
+1,Doesn't Recommend,Missing,Disapproves of CEO,pwc,1,,1,3,1,2008,Former Employee,assurance associate,miami,Missing,associate,audit
+4,Recommends,Missing,Approves of CEO,pwc,4,,4,4.5,4,2008,Current Employee,tax senior associate,tampa,Missing,associate,tax
+4,Recommends,Missing,Approves of CEO,pwc,4.5,,4,4,4,2008,Current Employee,audit senior associate,miami,Missing,associate,audit
+4,Recommends,Missing,Approves of CEO,pwc,5,,3.5,4,4,2008,Current Employee,it project manager,tampa,Missing,unknown,other
+4,Recommends,Missing,Approves of CEO,pwc,4,,4.5,4,4,2008,Current Employee,audit senior associate,miami,Missing,associate,audit
+3,Missing,Missing,Approves of CEO,pwc,4.5,,4,4,4,2008,Current Employee,audit associate,fort lauderdale,Missing,associate,audit
+4,Recommends,Missing,No opinion of CEO,pwc,4,,4,5,4.5,2008,Current Employee,gfs support specialist,tampa,Missing,,unknown
+4,Recommends,Missing,No opinion of CEO,pwc,3,,4,4.5,4,2008,Former Employee,auditor,tampa,Missing,unknown,audit
+4,Recommends,Missing,Approves of CEO,pwc,4,,5,5,4,2008,Current Employee,principal consultant,tampa,Missing,unknown,advisory
+3,Missing,Missing,No opinion of CEO,pwc,3,,4,3,3.5,2009,Current Employee,anonymous employee,miami,Missing,unknown,unknown
+4,Recommends,Missing,No opinion of CEO,pwc,3.5,,4.5,5,2,2009,Current Employee,it manager,tampa,Missing,manager,other
+3,Recommends,Missing,No opinion of CEO,pwc,2,,4,3,3,2009,Current Employee,assurance associate,miami,Missing,associate,audit
+2,Doesn't Recommend,Missing,No opinion of CEO,pwc,4,,2,3.5,1,2009,Current Employee,it manager,tampa,Missing,manager,other
+4,Missing,Missing,Approves of CEO,pwc,3,,4,4,4,2009,Current Employee,senior manager,miami,Missing,manager,unknown
+3,Recommends,Missing,No opinion of CEO,pwc,2.5,,4,2.5,4,2009,Current Employee,anonymous employee,miami,Missing,unknown,unknown
+4,Missing,Missing,Approves of CEO,pwc,2,,4,3,4.5,2009,Current Employee,audit associate,miami,Missing,associate,audit
+3,Missing,Missing,No opinion of CEO,pwc,1,,4,5,4,2009,Current Employee,associate,tampa,Missing,associate,unknown
+2,Doesn't Recommend,Missing,No opinion of CEO,pwc,2.5,,1.5,4,1,2009,Former Employee,manager,tampa,Missing,manager,audit
+3,Missing,Missing,Approves of CEO,pwc,2,,4,2,3.5,2010,Former Employee,auditor,tampa,Missing,unknown,audit
+3,Doesn't Recommend,Missing,No opinion of CEO,pwc,1.5,,4,2,2.5,2010,Current Employee,senior associate,miami,Missing,associate,unknown
+3,Missing,Missing,No opinion of CEO,pwc,2,,3,4,2.5,2010,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+2,Doesn't Recommend,Missing,Disapproves of CEO,pwc,2.5,,2.5,2.5,1,2010,Former Employee,senior associate - it quality,tampa,Missing,associate,other
+2,Doesn't Recommend,Missing,Disapproves of CEO,pwc,4,,3,2.5,2,2010,Current Employee,us it manager,tampa,Missing,manager,other
+1,Doesn't Recommend,Missing,Disapproves of CEO,pwc,1,,1,1,1,2010,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+2,Missing,Missing,No opinion of CEO,pwc,4.5,,1.5,4,1,2010,Former Employee,level ii it support specialist,tampa,Missing,unknown,other
+2,Doesn't Recommend,Missing,No opinion of CEO,pwc,2.5,,2,3,2,2010,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+5,Recommends,Missing,Approves of CEO,pwc,5,,5,5,5,2010,Current Employee,manager i,tampa,Missing,manager,unknown
+1,Doesn't Recommend,Missing,Disapproves of CEO,pwc,1.5,,1,3.5,1,2010,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+3,Missing,Missing,No opinion of CEO,pwc,2,,3.5,2.5,2.5,2010,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+3,Missing,Missing,No opinion of CEO,pwc,3,,2.5,3,2,2010,Current Employee,senior associate,fort lauderdale,Missing,associate,unknown
+4,Recommends,Missing,No opinion of CEO,pwc,4.5,,2.5,3.5,2.5,2010,Current Employee,manager,tampa,Missing,manager,unknown
+4,Missing,Missing,Approves of CEO,pwc,3.5,,3,3,2,2010,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+5,Recommends,Missing,No opinion of CEO,pwc,4.5,,5,4,5,2010,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+3,Doesn't Recommend,Missing,Approves of CEO,pwc,3.5,,5,5,2,2010,Former Employee,senior it manager,tampa,Missing,manager,other
+3,Missing,Missing,Approves of CEO,pwc,3,,2,2.5,1,2010,Current Employee,senior manager,tampa,Missing,manager,unknown
+4,Missing,Missing,Approves of CEO,pwc,3,,3,4.5,2,2010,Current Employee,us it manager,tampa,Missing,manager,other
+3,Missing,Missing,No opinion of CEO,pwc,4,,2,5,2,2010,Former Employee,enterprise architect,tampa,Missing,,other
+3,Missing,Missing,No opinion of CEO,pwc,3,,2.5,2,3,2010,Current Employee,enterprise architect,tampa,Missing,,other
+2,Doesn't Recommend,Missing,No opinion of CEO,pwc,3.5,,2.5,3.5,1,2010,Current Employee,us it,tampa,Missing,unknown,other
+2,Doesn't Recommend,Missing,No opinion of CEO,pwc,1.5,,2,3,2,2010,Current Employee,human resource advisor,tampa,Missing,unknown,advisory
+1,Doesn't Recommend,Missing,Disapproves of CEO,pwc,2.5,,1,1,3,2011,Former Employee,manager,tampa,Missing,manager,unknown
+4,Recommends,Missing,Approves of CEO,pwc,4.5,,4,5,4,2011,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+4,Missing,Missing,Disapproves of CEO,pwc,4.5,,3.5,4,3.5,2011,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+2,Doesn't Recommend,Missing,Disapproves of CEO,pwc,5,,2,3.5,2,2011,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+2,Doesn't Recommend,Missing,No opinion of CEO,pwc,3,,2,2.5,2,2011,Current Employee,manager,tampa,Missing,manager,unknown
+5,Recommends,Missing,No opinion of CEO,pwc,5,,5,5,5,2011,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+5,Recommends,Missing,No opinion of CEO,pwc,5,,5,5,5,2011,Current Employee,manager,tampa,Missing,manager,unknown
+5,Recommends,Missing,Approves of CEO,pwc,4.5,,5,4.5,4.5,2011,Former Employee,anonymous employee,miami,Missing,unknown,unknown
+1,Doesn't Recommend,Missing,Disapproves of CEO,pwc,1,,1,3,1,2011,Current Employee,manager,tampa,Missing,manager,unknown
+3,Missing,Missing,Approves of CEO,pwc,3,,4,2.5,4,2011,Current Employee,audit senior associate,miami,Missing,associate,audit
+4,Recommends,Missing,No opinion of CEO,pwc,5,,3,5,1.5,2011,Former Employee,senior manager us it,tampa,Missing,,other
+4,Recommends,Missing,Approves of CEO,pwc,4,,4,3.5,3.5,2012,Current Employee,manager,tampa,Missing,manager,unknown
+3,,,,pwc,5,5,,3,,2012,Former Employee,senior manager,tampa,More than 10 years,manager,unknown
+4,Recommends,Missing,Approves of CEO,pwc,3.5,,3.5,3.5,4.5,2012,Current Employee,systems analyst,tampa,Missing,analyst,other
+5,Recommends,Positive Outlook,Missing,pwc,3,5,5,5,4,2012,Current Employee,it manager,tampa,More than 10 years,manager,other
+5,Recommends,Positive Outlook,Missing,pwc,5,4,4,4,5,2012,Current Employee,applications engineer ii,tampa,Less than a year,unknown,other
+3,Recommends,Missing,No opinion of CEO,pwc,3,,3.5,3,3,2012,Current Employee,associate,tampa,Missing,associate,unknown
+3,,,,pwc,1,,3,,,2012,Former Employee,assurance associate,orlando,More than a year,associate,audit
+3,Doesn't Recommend,Neutral Outlook,Missing,pwc,1,3,4,3,2,2012,Current Employee,tax manager,tampa,More than 5 years,manager,tax
+3,Doesn't Recommend,Neutral Outlook,Missing,pwc,3,3,3,3,3,2012,Former Employee,it manager,tampa,More than 8 years,manager,other
+3,Recommends,Neutral Outlook,Missing,pwc,2,4,3,4,3,2012,Former Employee,technical lead,tampa,More than 8 years,,other
+4,Recommends,Positive Outlook,Missing,pwc,3,5,5,3,4,2013,Former Employee,assurance specialist,tampa,Less than a year,unknown,audit
+4,Recommends,Neutral Outlook,Missing,pwc,3,3,4,4,3,2013,Former Employee,program manager,tampa,More than 10 years,,unknown
+4,Doesn't Recommend,Neutral Outlook,Missing,pwc,4,3,3,4,4,2013,Current Employee,it senior associate,tampa,More than 10 years,associate,other
+2,Doesn't Recommend,Positive Outlook,Missing,pwc,1,1,4,4,1,2013,Former Employee,human resources manager,tampa,Less than a year,manager,other
+1,Doesn't Recommend,Negative Outlook,Missing,pwc,1,1,3,2,1,2013,Current Employee,audit senior associate,fort lauderdale,More than 5 years,associate,audit
+5,Doesn't Recommend,Neutral Outlook,Missing,pwc,5,3,3,5,3,2013,Current Employee,anonymous employee,tampa,More than 10 years,unknown,unknown
+5,Recommends,Neutral Outlook,Missing,pwc,3,4,4,5,3,2013,Current Employee,us it infrastructure lead manager ii,tampa,More than 10 years,manager,other
+3,Recommends,Positive Outlook,Missing,pwc,3,5,5,3,3,2013,Current Employee,tax associate,miami,More than a year,associate,tax
+4,Recommends,Positive Outlook,Missing,pwc,5,5,3,4,4,2013,Current Employee,finance associate,tampa,More than 3 years,associate,advisory
+5,Recommends,Positive Outlook,Missing,pwc,4,5,5,5,5,2013,Current Employee,tax associate,jacksonville,Less than a year,associate,tax
+1,Recommends,Negative Outlook,Missing,pwc,4,4,2,1,3,2013,Former Employee,process specialist,tampa,More than a year,,unknown
+3,Doesn't Recommend,Negative Outlook,Missing,pwc,3,5,2,4,2,2013,Former Employee,process specialist,tampa,Less than a year,,unknown
+4,Recommends,Positive Outlook,Missing,pwc,2,4,3,3,4,2013,Current Employee,process specialist,tampa,More than a year,,unknown
+4,Recommends,Positive Outlook,Missing,pwc,2,5,3,3,2,2013,Current Employee,audit staff,tampa,More than 3 years,associate,audit
+4,Recommends,Positive Outlook,Missing,pwc,3,3,4,4,4,2013,Current Employee,experienced audit associate (3+),miami,Less than a year,associate,audit
+3,Recommends,Neutral Outlook,Missing,pwc,3,4,3,4,1,2013,Current Employee,it manager,tampa,More than 8 years,manager,other
+4,Recommends,Positive Outlook,Missing,pwc,2,4,5,3,4,2013,Former Employee,audit senior associate,miami,More than 5 years,associate,audit
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,4,2013,Former Employee,project manager,tampa,More than 8 years,,unknown
+3,Recommends,Neutral Outlook,Missing,pwc,2,5,5,3,3,2014,Current Employee,assurance process specialist,tampa,More than a year,unknown,audit
+4,Recommends,Neutral Outlook,Missing,pwc,4,4,3,3,4,2014,Former Employee,anonymous employee,tampa,More than a year,unknown,audit
+3,Recommends,Negative Outlook,Missing,pwc,4,2,2,4,2,2014,Current Employee,financial analyst,tampa,More than 3 years,analyst,advisory
+5,Recommends,Positive Outlook,Missing,pwc,3,4,4,3,3,2014,Former Employee,senior associate - ifs,tampa,More than 8 years,,other
+4,Recommends,Neutral Outlook,Missing,pwc,5,2,4,5,3,2014,Current Employee,director,tampa,More than 10 years,director,unknown
+3,Doesn't Recommend,Positive Outlook,Missing,pwc,4,3,3,5,2,2014,Current Employee,proposasl writer,tampa,More than 5 years,,unknown
+2,Doesn't Recommend,Neutral Outlook,Missing,pwc,1,2,3,5,1,2014,Former Employee,hrssc employee,tampa,More than a year,unknown,other
+1,Doesn't Recommend,Positive Outlook,Missing,pwc,1,5,1,1,3,2014,Former Employee,tax process specialist,tampa,More than 3 years,unknown,tax
+4,Recommends,Positive Outlook,Missing,pwc,3,5,5,2,4,2014,Current Employee,risk assurance manager,tampa,More than 8 years,manager,advisory
+4,Recommends,Neutral Outlook,Missing,pwc,4,5,4,3,4,2014,Former Employee,relationship manager,tampa,More than 10 years,,other
+3,Recommends,Negative Outlook,Missing,pwc,4,4,3,4,2,2014,Current Employee,it project manager,tampa,More than 8 years,unknown,other
+2,Doesn't Recommend,Negative Outlook,Missing,pwc,1,2,3,4,2,2014,Current Employee,anonymous employee,tampa,More than 10 years,unknown,unknown
+3,Recommends,Negative Outlook,Missing,pwc,2,5,3,3,3,2014,Former Employee,talent acquisition,tampa,More than 3 years,,other
+1,Doesn't Recommend,Neutral Outlook,Missing,pwc,1,5,1,3,1,2014,Current Employee,tax specialist,tampa,More than a year,unknown,tax
+2,Doesn't Recommend,Neutral Outlook,Missing,pwc,4,1,3,4,2,2014,Former Employee,senior manager,tampa,More than 5 years,manager,unknown
+4,Recommends,Positive Outlook,Missing,pwc,4,4,5,3,4,2014,Current Employee,it director,tampa,More than 10 years,director,other
+4,Recommends,Positive Outlook,Missing,pwc,3,5,5,2,3,2014,Current Employee,process specialist,tampa,More than a year,,unknown
+1,Doesn't Recommend,Negative Outlook,Missing,pwc,1,1,,3,1,2014,Former Employee,administrative specialist,tampa,Less than a year,unknown,other
+5,Recommends,Neutral Outlook,Missing,pwc,4,5,5,2,3,2014,Current Employee,experienced associate (assurance),fort lauderdale,More than a year,associate,audit
+3,Doesn't Recommend,Positive Outlook,Missing,pwc,3,3,2,2,3,2014,Current Employee,assurance,tampa,Missing,unknown,audit
+5,Recommends,Neutral Outlook,Missing,pwc,3,5,5,4,5,2014,Former Employee,senior associate - advisory,miami,More than 5 years,associate,advisory
+3,Doesn't Recommend,Negative Outlook,Missing,pwc,3,3,3,3,2,2014,Former Employee,internal firm services (ifs),tampa,More than 8 years,unknown,other
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2014,Current Employee,senior san administrator,tampa,More than 3 years,,other
+1,Doesn't Recommend,Neutral Outlook,Missing,pwc,1,2,2,3,1,2014,Current Employee,tax process specialist,tampa,More than a year,unknown,tax
+1,Doesn't Recommend,Negative Outlook,Missing,pwc,1,1,1,1,1,2014,Current Employee,human resources specialist,tampa,More than 3 years,unknown,other
+4,Recommends,Neutral Outlook,Missing,pwc,5,5,4,3,4,2014,Current Employee,knowledge services - knowledge management senior associate,tampa,More than 8 years,,unknown
+1,,,,pwc,1,1,1,1,1,2014,Former Employee,hrssc,tampa,Missing,unknown,other
+5,Recommends,Positive Outlook,Missing,pwc,3,4,5,4,4,2014,Former Employee,audit manager,fort lauderdale,More than 8 years,manager,audit
+4,Recommends,Positive Outlook,Missing,pwc,2,3,3,3,2,2014,Former Employee,audit associate,fort lauderdale,More than 5 years,associate,audit
+3,Recommends,Neutral Outlook,Missing,pwc,4,5,2,1,4,2014,Current Employee,process specialist,tampa,More than a year,,unknown
+1,Doesn't Recommend,Neutral Outlook,Missing,pwc,1,1,2,1,1,2014,Former Employee,senior associate,fort lauderdale,More than 5 years,associate,audit
+3,Doesn't Recommend,Neutral Outlook,Missing,pwc,4,3,4,4,1,2015,Former Employee,associate creative director,fort lauderdale,More than a year,director,unknown
+1,Doesn't Recommend,Neutral Outlook,Missing,pwc,4,1,3,1,1,2015,Former Employee,information technology,tampa,Missing,,other
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2015,Current Employee,director,miami,More than 5 years,director,unknown
+3,Missing,Positive Outlook,Missing,pwc,3,5,5,3,2,2015,Current Employee,anonymous employee,tampa,More than 3 years,unknown,unknown
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2015,Former Employee,office services,fort lauderdale,Missing,,other
+3,Recommends,Missing,No opinion of CEO,pwc,1,4,4,2,4,2015,Current Employee,risk assurance experienced associate,miami,More than a year,associate,advisory
+3,,,,pwc,1,5,2,1,4,2015,Former Employee,financial consultant,miami,More than a year,unknown,advisory
+4,Recommends,Positive Outlook,Missing,pwc,2,4,4,4,3,2015,Current Employee,ciso,tampa,More than 10 years,,unknown
+4,Recommends,Positive Outlook,Missing,pwc,3,3,4,4,3,2015,Current Employee,audit staff,jacksonville,Missing,associate,audit
+5,Recommends,Positive Outlook,Missing,pwc,3,4,5,3,3,2015,Current Employee,manager,tampa,More than 5 years,manager,unknown
+4,Recommends,Neutral Outlook,Missing,pwc,3,3,4,5,2,2015,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+5,Recommends,Positive Outlook,Missing,pwc,3,5,5,3,5,2015,Former Employee,assurance,orlando,Missing,unknown,audit
+4,Recommends,Positive Outlook,Missing,pwc,4,5,5,3,4,2015,Current Employee,tax process specialist,tampa,Less than a year,unknown,tax
+4,Recommends,Neutral Outlook,Missing,pwc,3,5,5,4,4,2015,Current Employee,tax director,tampa,More than 10 years,director,tax
+4,Recommends,Positive Outlook,Missing,pwc,5,5,5,3,3,2015,Current Employee,pwc it experienced manager i,tampa,Missing,manager,other
+4,Missing,Positive Outlook,Approves of CEO,pwc,4,4,4,4,4,2015,Former Employee,development manager-it,tampa,More than 3 years,,other
+4,Recommends,Positive Outlook,Missing,pwc,2,4,5,3,4,2015,Current Employee,senior associate,tampa,More than 5 years,associate,unknown
+4,Recommends,Positive Outlook,Missing,pwc,4,5,5,4,4,2015,Current Employee,process specialist,tampa,More than a year,,unknown
+4,Recommends,Neutral Outlook,Missing,pwc,4,3,3,4,3,2015,Current Employee,senior accountant corporate accounting,tampa,More than 3 years,associate,audit
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2015,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+3,Recommends,Positive Outlook,Missing,pwc,2,3,4,4,1,2015,Former Employee,marketing manager,tampa,More than 5 years,,other
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2015,Former Employee,anonymous employee,miami,More than a year,unknown,unknown
+4,Recommends,Positive Outlook,Missing,pwc,2,5,2,3,5,2015,Current Employee,tax process specialist 1b,tampa,Less than a year,unknown,tax
+4,Recommends,Positive Outlook,Missing,pwc,2,5,4,4,4,2015,Current Employee,anonymous employee,miami,Less than a year,unknown,unknown
+5,Recommends,Positive Outlook,Missing,pwc,4,5,5,4,5,2015,Current Employee,senior assurance associate,tampa,More than 3 years,associate,audit
+5,Recommends,Positive Outlook,Missing,pwc,4,5,5,5,5,2016,Current Employee,senior associate,jacksonville,More than a year,associate,unknown
+3,Recommends,Positive Outlook,Missing,pwc,3,4,5,3,4,2016,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+4,Recommends,Missing,Missing,pwc,4,4,4,5,4,2016,Former Employee,anonymous employee,tampa,More than 10 years,unknown,unknown
+2,Doesn't Recommend,Negative Outlook,Missing,pwc,4,1,2,1,2,2016,Current Employee,process specialist,tampa,Missing,,unknown
+5,Recommends,Positive Outlook,Missing,pwc,4,5,4,5,4,2016,Current Employee,systems and process assurance associate,tampa,Missing,associate,unknown
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2016,Former Employee,accounting manager/functional controller,tampa,Missing,manager,audit
+1,Doesn't Recommend,Neutral Outlook,Missing,pwc,1,1,,3,,2016,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+4,Recommends,Neutral Outlook,Missing,pwc,3,4,4,3,3,2016,Former Employee,cpa,tampa,Missing,unknown,audit
+3,Doesn't Recommend,Positive Outlook,Missing,pwc,1,5,4,3,2,2016,Current Employee,anonymous employee,tampa,More than 3 years,unknown,unknown
+4,Recommends,Positive Outlook,Missing,pwc,3,5,3,4,2,2016,Current Employee,project su,tampa,More than 3 years,,unknown
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2016,Current Employee,managing director,tampa,More than 10 years,director,unknown
+3,,,,pwc,1,2,2,4,1,2016,Former Employee,tax professional,tampa,Less than a year,unknown,tax
+3,Recommends,Neutral Outlook,Missing,pwc,3,2,3,3,2,2016,Former Employee,anonymous employee,tampa,More than 3 years,unknown,unknown
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2016,Current Employee,ifs manager,tampa,More than 5 years,,other
+1,Doesn't Recommend,Positive Outlook,Missing,pwc,1,1,1,1,4,2016,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+5,Recommends,Neutral Outlook,Missing,pwc,5,5,4,4,5,2016,Current Employee,process specialist,tampa,Less than a year,,unknown
+3,Recommends,Negative Outlook,Missing,pwc,1,2,2,1,1,2016,Current Employee,risk assurance manager,tampa,More than 3 years,manager,advisory
+1,Doesn't Recommend,Neutral Outlook,Missing,pwc,1,1,1,1,1,2016,Former Employee,tax process specialist,tampa,Missing,unknown,tax
+4,Recommends,Positive Outlook,Missing,pwc,5,5,4,3,3,2016,Former Employee,virtual assistant and writer,orlando,More than 10 years,unknown,other
+5,Recommends,Positive Outlook,Missing,pwc,5,5,4,5,4,2016,Current Employee,human resources,tampa,Less than a year,unknown,other
+4,Recommends,Positive Outlook,Missing,pwc,3,4,4,5,4,2016,Current Employee,audit manager,miami,Missing,manager,audit
+5,Recommends,Positive Outlook,Missing,pwc,4,5,5,5,5,2016,Current Employee,director,tampa,More than 5 years,director,unknown
+5,Recommends,Positive Outlook,Missing,pwc,3,5,4,3,4,2016,Current Employee,anonymous employee,tampa,More than 5 years,unknown,unknown
+3,Recommends,Positive Outlook,Missing,pwc,3,3,3,3,3,2016,Former Employee,senior finance manager,tampa,More than 10 years,,advisory
+3,Recommends,Missing,No opinion of CEO,pwc,1,3,3,1,3,2016,Former Employee,attorney,miami,More than a year,unknown,other
+5,Recommends,Positive Outlook,Missing,pwc,4,5,5,4,5,2016,Current Employee,advisory,tampa,Missing,unknown,advisory
+3,,,,pwc,3,3,2,4,3,2016,Former Employee,senior software consultant,tampa,More than a year,unknown,advisory
+2,Missing,Neutral Outlook,No opinion of CEO,pwc,2,2,3,2,2,2016,Current Employee,administrative assistant,tampa,More than 3 years,staff,other
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,4,2016,Current Employee,anonymous employee,tampa,More than 5 years,unknown,unknown
+4,Recommends,Positive Outlook,Missing,pwc,5,4,3,5,3,2016,Current Employee,associate,tampa,Less than a year,associate,unknown
+5,Recommends,Positive Outlook,Missing,pwc,3,4,5,2,4,2016,Current Employee,experienced associate (assurance),tampa,More than a year,associate,audit
+2,Missing,Positive Outlook,Approves of CEO,pwc,1,2,2,2,2,2016,Current Employee,accountant,tampa,More than a year,unknown,audit
+3,Doesn't Recommend,Positive Outlook,Missing,pwc,2,3,2,3,2,2016,Current Employee,anonymous employee,tampa,More than 3 years,unknown,unknown
+4,Recommends,Positive Outlook,Missing,pwc,3,3,4,4,4,2016,Current Employee,anonymous employee,tampa,More than 8 years,unknown,unknown
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2016,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2016,Current Employee,director,miami,Missing,director,unknown
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2016,Current Employee,manager,jacksonville,Missing,manager,unknown
+2,Doesn't Recommend,Negative Outlook,Missing,pwc,3,4,2,4,3,2016,Former Employee,anonymous employee,tampa,More than a year,unknown,unknown
+3,,,,pwc,2,3,3,3,4,2016,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2016,Current Employee,seasonal assurance process specialist,orlando,Less than a year,,unknown
+3,Recommends,Positive Outlook,Missing,pwc,5,4,3,2,3,2016,Current Employee,senior associate - ifs,tampa,Missing,,other
+4,Recommends,Positive Outlook,Missing,pwc,3,5,4,3,4,2016,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+3,,,,pwc,1,5,5,1,5,2016,Former Employee,process specialist,tampa,Less than a year,,unknown
+4,Recommends,Positive Outlook,Missing,pwc,4,5,5,3,3,2016,Current Employee,experienced audit associate,tampa,More than a year,associate,audit
+3,Recommends,Neutral Outlook,Missing,pwc,1,4,4,4,2,2016,Former Employee,anonymous employee,tampa,Less than a year,unknown,unknown
+4,Recommends,Positive Outlook,Missing,pwc,5,5,4,4,3,2017,Current Employee,senior associate,tampa,More than 10 years,associate,unknown
+3,Recommends,Positive Outlook,Missing,pwc,3,5,4,4,3,2017,Former Employee,audit associate,tampa,More than a year,associate,audit
+3,Missing,Missing,Approves of CEO,pwc,4,4,2,4,3,2017,Former Employee,it architect/tech lead,tampa,Missing,unknown,other
+5,Recommends,Positive Outlook,Missing,pwc,4,5,4,2,4,2017,Current Employee,ifs senior associate,tampa,More than 5 years,,other
+3,Doesn't Recommend,Negative Outlook,Missing,pwc,5,2,1,4,2,2017,Current Employee,senior associate,tampa,More than 5 years,associate,unknown
+2,Doesn't Recommend,Negative Outlook,Missing,pwc,4,5,2,3,1,2017,Former Employee,assurance associate,fort lauderdale,More than a year,associate,audit
+4,Recommends,Neutral Outlook,Missing,pwc,5,4,3,4,3,2017,Current Employee,proposal writer,tampa,More than a year,,unknown
+5,Recommends,Positive Outlook,Missing,pwc,4,5,5,3,5,2017,Current Employee,anonymous employee,fort lauderdale,More than a year,unknown,unknown
+2,Doesn't Recommend,Negative Outlook,Missing,pwc,2,3,1,4,2,2017,Former Employee,it senior manager,tampa,More than 10 years,manager,other
+2,Doesn't Recommend,Negative Outlook,Missing,pwc,2,1,1,4,1,2017,Current Employee,it professional,tampa,More than 5 years,unknown,other
+4,Recommends,Positive Outlook,Missing,pwc,3,4,5,4,5,2017,Current Employee,risk assurance experienced associate,tampa,More than a year,associate,advisory
+1,Doesn't Recommend,Negative Outlook,Missing,pwc,1,1,1,1,1,2017,Former Employee,tax process specialist 1a,tampa,Less than a year,unknown,tax
+5,Recommends,Positive Outlook,Missing,pwc,4,5,5,4,5,2017,Current Employee,associate,tampa,Less than a year,associate,unknown
+2,Doesn't Recommend,Neutral Outlook,Missing,pwc,3,4,1,2,2,2017,Current Employee,anonymous employee,tampa,Less than a year,unknown,unknown
+1,Doesn't Recommend,Missing,Disapproves of CEO,pwc,1,1,1,4,1,2017,Former Employee,anonymous employee,tampa,More than 10 years,unknown,unknown
+3,Doesn't Recommend,Neutral Outlook,Missing,pwc,4,2,2,2,2,2017,Former Employee,process specialist,tampa,Less than a year,,unknown
+4,Recommends,Neutral Outlook,Missing,pwc,4,5,5,5,5,2017,Former Employee,it support specialist,tampa,More than a year,unknown,other
+3,Recommends,Neutral Outlook,Missing,pwc,4,3,3,4,3,2017,Current Employee,anonymous employee,tampa,More than a year,unknown,unknown
+4,Recommends,Positive Outlook,Missing,pwc,3,4,5,3,3,2017,Former Employee,tax,tampa,Less than a year,unknown,tax
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2017,Former Employee,ifs senior associate,tampa,More than 10 years,,other
+4,Recommends,Positive Outlook,Missing,pwc,3,5,4,3,3,2017,Current Employee,anonymous employee,tampa,Less than a year,unknown,unknown
+4,Recommends,Negative Outlook,Missing,pwc,4,5,1,4,2,2017,Current Employee,anonymous,tampa,More than 10 years,unknown,unknown
+1,Doesn't Recommend,Negative Outlook,Missing,pwc,2,1,1,3,1,2017,Former Employee,administrative services concierge,tampa,More than a year,unknown,other
+5,Recommends,Positive Outlook,Missing,pwc,5,5,5,5,5,2017,Former Employee,administrative services concierge,tampa,More than a year,unknown,other
+5,Recommends,Positive Outlook,Missing,pwc,4,5,5,3,5,2017,Current Employee,second yr senior assurance associate,tampa,More than 3 years,associate,audit
+3,Doesn't Recommend,Missing,No opinion of CEO,pwc,3,1,1,3,2,2017,Current Employee,ifs senior associate,tampa,More than a year,,other
+4,Recommends,Neutral Outlook,Missing,pwc,3,5,2,3,3,2017,Current Employee,process specialist,tampa,Less than a year,,unknown
+4,Recommends,Neutral Outlook,Missing,pwc,2,3,5,3,4,2017,Current Employee,risk assurance senior associate,fort lauderdale,More than 5 years,associate,advisory
+2,Doesn't Recommend,Negative Outlook,Missing,pwc,3,3,2,5,2,2017,Former Employee,anonymous employee,tampa,More than 10 years,unknown,unknown
+5,Recommends,Missing,Approves of CEO,deloitte,4.5,,5,4,5,2008,Current Employee,senior consultant,tampa,Missing,unknown,advisory
+5,Recommends,Missing,Approves of CEO,deloitte,4,,5,4,5,2008,Former Employee,audit,miami,Missing,unknown,audit
+2,Doesn't Recommend,Missing,Disapproves of CEO,deloitte,1.5,,4,3.5,3,2009,Current Employee,anonymous employee,tampa,Missing,unknown,audit
+4,Recommends,Missing,Approves of CEO,deloitte,2.5,,5,4.5,4,2010,Former Employee,senior auditor,miami,Missing,associate,audit
+2,Doesn't Recommend,Missing,No opinion of CEO,deloitte,2.5,,4,4,1,2010,Current Employee,anonymous employee,miami,Missing,unknown,unknown
+4,Missing,Missing,No opinion of CEO,deloitte,2,,4,4.5,4,2010,Former Employee,senior auditor,miami,Missing,associate,audit
+4,Recommends,Missing,Approves of CEO,deloitte,4,,4,4,4,2010,Current Employee,audit staff,miami,Missing,associate,audit
+3,Recommends,Missing,No opinion of CEO,deloitte,3.5,,3.5,4,2.5,2011,Former Employee,audit staff,orlando,Missing,associate,audit
+5,Recommends,Missing,Missing,deloitte,5,,4,4.5,5,2011,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+4,Recommends,Missing,Approves of CEO,deloitte,4.5,,4,5,4,2011,Current Employee,senior consultant,miami,Missing,unknown,advisory
+4,Recommends,Positive Outlook,Missing,deloitte,3,3,3,4,3,2012,Former Employee,consulting manager,miami,More than a year,manager,advisory
+4,Recommends,Neutral Outlook,Missing,deloitte,2,4,3,4,3,2013,Current Employee,senior records management administrator,tampa,More than 10 years,,unknown
+5,Recommends,Positive Outlook,Missing,deloitte,5,5,5,5,5,2013,Current Employee,consultant,miami,More than a year,unknown,advisory
+2,Recommends,Missing,Approves of CEO,deloitte,1,1,5,3,1,2013,Current Employee,manager,miami,More than a year,manager,unknown
+3,Doesn't Recommend,Neutral Outlook,Missing,deloitte,2,3,4,3,2,2013,Former Employee,consultant,tampa,More than a year,unknown,advisory
+3,Recommends,Positive Outlook,Missing,deloitte,3,4,4,4,4,2013,Current Employee,senior consultant,tampa,More than 3 years,unknown,advisory
+3,Recommends,Neutral Outlook,Missing,deloitte,1,3,3,4,4,2013,Former Employee,senior manager,tampa,More than a year,manager,unknown
+3,Recommends,Neutral Outlook,Missing,deloitte,1,3,2,4,2,2013,Former Employee,talent specialist,tampa,More than 3 years,,other
+4,Recommends,Positive Outlook,Missing,deloitte,3,4,4,3,3,2014,Former Employee,client and market researcher,boca raton,More than 3 years,,other
+3,Recommends,Positive Outlook,Missing,deloitte,2,2,5,3,3,2014,Current Employee,audit assistant,tampa,Missing,associate,audit
+2,Doesn't Recommend,Missing,No opinion of CEO,deloitte,1,2,5,3,2,2014,Former Employee,audit senior assistant (second year),miami,More than a year,associate,audit
+4,Missing,Neutral Outlook,No opinion of CEO,deloitte,2,4,5,3,3,2014,Former Employee,audit senior,boca raton,More than a year,associate,audit
+4,Recommends,Neutral Outlook,Missing,deloitte,4,4,3,4,5,2014,Former Employee,senior consultant,miami,More than a year,unknown,advisory
+1,Doesn't Recommend,Negative Outlook,Missing,deloitte,1,3,3,4,1,2014,Former Employee,it audit senior,miami,More than a year,associate,other
+5,Recommends,Neutral Outlook,Missing,deloitte,3,4,5,4,3,2014,Current Employee,consultant,jacksonville,More than a year,unknown,advisory
+2,Doesn't Recommend,Neutral Outlook,Missing,deloitte,1,3,4,2,1,2014,Former Employee,center associate v,orlando,More than a year,,unknown
+4,Recommends,Positive Outlook,Missing,deloitte,1,3,5,3,4,2014,Current Employee,audit senior,miami,More than 3 years,associate,audit
+4,Recommends,Positive Outlook,Missing,deloitte,5,5,4,4,4,2015,Current Employee,senior consultant,miami,Missing,unknown,advisory
+3,Recommends,Positive Outlook,Missing,deloitte,1,3,4,4,2,2015,Current Employee,senior solutions engineer,orlando,Less than a year,,other
+5,Recommends,Positive Outlook,Missing,deloitte,4,4,4,4,4,2015,Current Employee,audit senior,tampa,Less than a year,associate,audit
+1,Doesn't Recommend,Neutral Outlook,Missing,deloitte,1,1,2,3,1,2015,Current Employee,solution engineer,orlando,More than a year,,other
+5,Recommends,Positive Outlook,Missing,deloitte,4,5,5,5,4,2015,Current Employee,senior manager,miami,More than 8 years,manager,unknown
+1,Doesn't Recommend,Neutral Outlook,Missing,deloitte,1,1,1,1,1,2015,Current Employee,solutions engineer,orlando,Less than a year,,other
+3,Recommends,Missing,Missing,deloitte,1,,5,2,2,2015,Former Employee,senior associate - audit,jacksonville,More than 3 years,associate,audit
+4,Recommends,Positive Outlook,Missing,deloitte,3,5,5,3,5,2015,Current Employee,advisory consultant,miami,More than a year,unknown,advisory
+3,Recommends,Positive Outlook,Missing,deloitte,4,4,2,2,2,2015,Current Employee,solution engineer,orlando,Less than a year,,other
+3,Recommends,Positive Outlook,Missing,deloitte,2,3,4,1,4,2015,Current Employee,solutions engineer,orlando,Missing,,other
+5,Recommends,Positive Outlook,Missing,deloitte,5,5,5,5,5,2015,Current Employee,software developer,orlando,Less than a year,,other
+3,Missing,Positive Outlook,No opinion of CEO,deloitte,1,4,4,4,3,2015,Current Employee,senior solutions engineer,orlando,Less than a year,,other
+5,Recommends,Positive Outlook,Missing,deloitte,5,5,5,5,5,2015,Current Employee,anonymous employee,orlando,Missing,unknown,unknown
+3,Recommends,Positive Outlook,Missing,deloitte,1,4,3,3,4,2015,Former Employee,audit senior,tampa,More than 5 years,associate,audit
+4,Recommends,Neutral Outlook,Missing,deloitte,2,3,4,4,3,2015,Former Employee,enterprise risk services manager,boca raton,More than 3 years,manager,advisory
+5,Recommends,Positive Outlook,Missing,deloitte,5,5,5,5,5,2015,Former Employee,senior consultant,boca raton,Missing,unknown,advisory
+2,Recommends,Negative Outlook,Missing,deloitte,1,3,3,2,1,2016,Current Employee,senior assistant,boca raton,Less than a year,associate,audit
+1,Doesn't Recommend,Negative Outlook,Missing,deloitte,1,1,1,2,1,2016,Former Employee,senior software engineer,orlando,Missing,,other
+3,Recommends,Neutral Outlook,Missing,deloitte,4,4,3,4,3,2016,Former Employee,solutions developer,orlando,More than a year,,other
+4,Doesn't Recommend,Positive Outlook,Missing,deloitte,1,3,2,5,4,2016,Former Employee,project controller,orlando,Missing,,unknown
+1,Missing,Negative Outlook,Disapproves of CEO,deloitte,1,1,1,2,1,2016,Current Employee,consultant,orlando,More than a year,unknown,advisory
+5,Recommends,Missing,Missing,deloitte,2,,5,3,,2016,Former Employee,anonymous employee,miami,More than 5 years,unknown,unknown
+3,Recommends,Positive Outlook,Missing,deloitte,1,2,4,3,3,2016,Current Employee,solution developer,orlando,More than a year,,other
+5,Recommends,Positive Outlook,Missing,deloitte,2,3,5,3,5,2016,Current Employee,anonymous employee,miami,Missing,unknown,unknown
+5,Recommends,Positive Outlook,Missing,deloitte,3,5,5,5,5,2016,Current Employee,anonymous employee,miami,Less than a year,unknown,unknown
+4,Recommends,Positive Outlook,Missing,deloitte,2,4,4,3,3,2016,Current Employee,anonymous employee,jacksonville,More than a year,unknown,unknown
+5,Recommends,Positive Outlook,Missing,deloitte,5,5,5,5,5,2016,Former Employee,front end developer � consultant,miami,More than 3 years,,advisory
+5,Recommends,Positive Outlook,Missing,deloitte,3,3,3,3,3,2016,Current Employee,solution developer,orlando,Missing,,other
+4,Recommends,Positive Outlook,Missing,deloitte,4,4,4,4,4,2016,Current Employee,solution engineer,orlando,Missing,,other
+3,Missing,Missing,No opinion of CEO,deloitte,2,2,4,4,3,2016,Former Employee,senior consultant,miami,Missing,unknown,advisory
+3,Recommends,Positive Outlook,Missing,deloitte,3,1,4,3,2,2016,Current Employee,solution engineer,orlando,Less than a year,,other
+3,Doesn't Recommend,Neutral Outlook,Missing,deloitte,1,3,2,3,2,2016,Current Employee,audit senior assistant,jacksonville,More than a year,associate,audit
+3,Doesn't Recommend,Negative Outlook,Missing,deloitte,2,2,2,4,2,2016,Former Employee,anonymous employee,orlando,Missing,unknown,unknown
+1,Doesn't Recommend,Missing,Missing,deloitte,1,1,1,4,1,2016,Former Employee,applications developer,orlando,Less than a year,unknown,other
+3,Doesn't Recommend,Positive Outlook,Missing,deloitte,2,2,3,4,3,2016,Current Employee,ers consultant,miami,Less than a year,unknown,advisory
+1,Doesn't Recommend,Negative Outlook,Missing,deloitte,3,1,1,1,1,2016,Current Employee,associate 6,orlando,Missing,associate,unknown
+4,Recommends,Positive Outlook,Missing,deloitte,5,5,4,4,4,2016,Current Employee,senior software engineer,orlando,More than a year,,other
+3,Recommends,Positive Outlook,Missing,deloitte,5,5,5,5,4,2016,Former Employee,solutions engineer,miami,More than a year,,other
+4,Recommends,Neutral Outlook,Missing,deloitte,3,4,4,3,4,2016,Current Employee,consultant,orlando,Less than a year,unknown,advisory
+5,Recommends,Positive Outlook,Missing,deloitte,3,5,5,5,5,2016,Current Employee,consultant,orlando,More than a year,unknown,advisory
+3,,,,deloitte,2,3,3,4,3,2016,Former Employee,senior solutions engineer,orlando,Less than a year,,other
+4,Recommends,Neutral Outlook,Missing,deloitte,2,3,4,5,4,2016,Current Employee,senior consultant,tampa,Less than a year,unknown,advisory
+1,Doesn't Recommend,Negative Outlook,Missing,deloitte,1,1,1,1,1,2016,Former Employee,solution engineer,orlando,More than a year,,other
+2,Doesn't Recommend,Missing,Missing,deloitte,1,3,3,4,1,2016,Former Employee,senior consultant/functional lead,tampa,More than a year,unknown,advisory
+1,Doesn't Recommend,Negative Outlook,Missing,deloitte,1,1,1,1,1,2016,Former Employee,solution developer,orlando,Missing,,other
+4,Recommends,Positive Outlook,Missing,deloitte,4,4,4,4,5,2016,Current Employee,solution developer,orlando,Less than a year,,other
+5,Recommends,Positive Outlook,Missing,deloitte,4,5,5,4,4,2017,Current Employee,consulting senior manager,tampa,More than 3 years,manager,advisory
+4,,,,deloitte,3,4,3,3,3,2017,Current Employee,solutions engineer,orlando,More than 3 years,,other
+3,Recommends,Positive Outlook,Missing,deloitte,2,3,3,5,3,2017,Former Employee,specialist leader,orlando,More than 5 years,,unknown
+4,Recommends,Positive Outlook,Missing,deloitte,3,5,5,5,3,2017,Current Employee,business systems analyst,orlando,More than 3 years,analyst,other
+3,Doesn't Recommend,Neutral Outlook,Missing,deloitte,5,3,3,3,2,2017,Former Employee,anonymous employee,orlando,More than a year,unknown,unknown
+4,,,,deloitte,4,4,4,3,4,2017,Current Employee,pmo analyst,orlando,Less than a year,analyst,unknown
+3,Recommends,Neutral Outlook,Missing,deloitte,1,3,4,3,1,2017,Former Employee,audit associate,jacksonville,More than a year,associate,audit
+2,,,,deloitte,3,4,3,3,1,2017,Current Employee,call center representative,orlando,Less than a year,,other
+4,Recommends,Missing,Approves of CEO,deloitte,1,5,4,5,3,2017,Current Employee,manager,orlando,More than a year,manager,unknown
+5,Recommends,Positive Outlook,Missing,deloitte,5,5,4,5,4,2017,Current Employee,anonymous employee,orlando,More than 3 years,unknown,unknown
+4,Recommends,Positive Outlook,Missing,deloitte,1,3,5,4,4,2017,Current Employee,audit senior assistant,miami,More than a year,associate,audit
+4,Recommends,Positive Outlook,Missing,deloitte,3,5,5,4,3,2017,Current Employee,manager,orlando,More than 10 years,manager,unknown
+3,Recommends,Neutral Outlook,Missing,deloitte,1,2,3,1,3,2017,Former Employee,salesforce developer,orlando,More than a year,,other
+3,Doesn't Recommend,Neutral Outlook,Missing,deloitte,2,4,4,2,3,2017,Current Employee,solutions engineer,orlando,More than a year,,other
+5,Recommends,Positive Outlook,Missing,deloitte,3,5,5,5,5,2017,Current Employee,solutions specialist,orlando,More than a year,,other
+5,Recommends,Positive Outlook,Missing,deloitte,3,5,5,4,5,2017,Current Employee,ers consultant,boca raton,More than a year,unknown,advisory
+4,Recommends,Positive Outlook,Missing,deloitte,3,5,3,2,4,2017,Current Employee,solutions developer,orlando,More than a year,,other
+1,Doesn't Recommend,Missing,Missing,kpmg,1,,4,2.5,2,2008,Former Employee,audit associate,orlando,Missing,associate,audit
+5,Recommends,Missing,Approves of CEO,kpmg,5,,4.5,4,4,2008,Current Employee,"senior associate, it advisory",tampa,Missing,associate,other
+4,Recommends,Missing,Approves of CEO,kpmg,5,,5,4.5,4.5,2008,Current Employee,anonymous employee,tampa,Missing,unknown,unknown
+4,Recommends,Missing,No opinion of CEO,kpmg,5,,5,3.5,4.5,2009,Current Employee,it advisory associate,fort lauderdale,Missing,associate,other
+4,Recommends,Missing,No opinion of CEO,kpmg,3.5,,4,2.5,3.5,2009,Current Employee,senior manager,tampa,Missing,manager,unknown
+4,Recommends,Missing,Approves of CEO,kpmg,4,,4,3.5,5,2010,Former Employee,senior associate,miami,Missing,associate,unknown
+3,Missing,Missing,No opinion of CEO,kpmg,2.5,,2,3,3,2010,Former Employee,consultant,miami,Missing,unknown,advisory
+3,Doesn't Recommend,Missing,Disapproves of CEO,kpmg,3,,3.5,4,2,2010,Former Employee,anonymous employee,tampa,Missing,unknown,unknown
+4,Recommends,Neutral Outlook,Missing,kpmg,3,4,4,4,4,2012,Former Employee,audit senior manager,jacksonville,More than 8 years,manager,audit
+3,Doesn't Recommend,Neutral Outlook,Missing,kpmg,3,2,2,2,3,2012,Current Employee,manager,fort lauderdale,Less than a year,manager,unknown
+3,Doesn't Recommend,Neutral Outlook,Missing,kpmg,2,2,3,3,3,2013,Current Employee,senior it advisor,miami,More than 3 years,unknown,other
+4,Recommends,Positive Outlook,Missing,kpmg,3,4,4,4,4,2013,Current Employee,senior audit associate,miami,More than a year,associate,audit
+2,Doesn't Recommend,Neutral Outlook,Missing,kpmg,1,3,4,3,2,2013,Current Employee,audit associate,miami,More than a year,associate,audit
+2,Doesn't Recommend,Neutral Outlook,Missing,kpmg,1,2,4,3,1,2013,Current Employee,audit associate,jacksonville,More than a year,associate,audit
+5,Recommends,Positive Outlook,Missing,kpmg,3,4,5,4,4,2014,Former Employee,advisory manager,miami,More than a year,manager,advisory
+3,Recommends,Neutral Outlook,Missing,kpmg,2,3,3,2,3,2014,Former Employee,manager,miami,More than 10 years,manager,unknown
+1,Doesn't Recommend,Neutral Outlook,Missing,kpmg,1,3,3,3,3,2015,Current Employee,audit associate,jacksonville,More than a year,associate,audit
+4,Recommends,Positive Outlook,Missing,kpmg,2,3,4,3,3,2015,Former Employee,anonymous employee,jacksonville,Missing,unknown,unknown
+4,Recommends,Neutral Outlook,Missing,kpmg,4,4,4,4,4,2015,Former Employee,cio advisory,miami,Missing,unknown,advisory
+4,Recommends,Positive Outlook,Missing,kpmg,3,4,5,4,4,2015,Former Employee,audit senior associate,tampa,More than 3 years,associate,audit
+4,Recommends,Positive Outlook,Missing,kpmg,3,5,4,3,4,2016,Current Employee,manager,miami,More than 3 years,manager,unknown
+3,Recommends,Neutral Outlook,Missing,kpmg,2,5,5,2,4,2016,Current Employee,audit associate,miami,More than a year,associate,audit
+3,Recommends,Positive Outlook,Missing,kpmg,1,4,4,3,4,2016,Former Employee,anonymous employee,miami,More than 3 years,unknown,unknown
+4,Recommends,Positive Outlook,Missing,kpmg,3,4,3,3,4,2016,Former Employee,anonymous employee,miami,More than 10 years,unknown,unknown
+4,Recommends,Positive Outlook,Missing,kpmg,1,3,5,5,3,2016,Former Employee,anonymous employee,orlando,Missing,unknown,unknown
+5,Recommends,Positive Outlook,Missing,kpmg,3,5,5,5,5,2017,Current Employee,associate,jacksonville,Less than a year,associate,unknown
+5,Recommends,Positive Outlook,Missing,kpmg,2,4,5,3,4,2017,Current Employee,audit senior,miami,Missing,associate,audit
+3,,,,grant_thornton,2,,4,2.5,3.5,2011,Current Employee,experienced senior auditor,fort lauderdale,Missing,associate,audit
+5,Recommends,Positive Outlook,Missing,grant_thornton,4,5,5,4,5,2012,Current Employee,senior associate,fort lauderdale,More than a year,associate,audit
+3,Recommends,Missing,Missing,grant_thornton,2,3,4,2,4,2013,Current Employee,senior tax associate,fort lauderdale,More than a year,associate,tax
+4,Recommends,Positive Outlook,Missing,grant_thornton,3,3,4,4,4,2013,Current Employee,audit associate,orlando,Less than a year,associate,audit
+3,Recommends,Positive Outlook,Missing,grant_thornton,3,3,4,3,4,2014,Current Employee,tax associate ii,fort lauderdale,More than a year,associate,tax
+4,Recommends,Positive Outlook,Missing,grant_thornton,2,5,4,2,4,2015,Current Employee,audit senior associate,miami,More than 3 years,associate,audit
+4,Recommends,Positive Outlook,Missing,grant_thornton,3,4,5,3,4,2015,Current Employee,senior tax associate,fort lauderdale,More than 3 years,associate,tax
+1,Doesn't Recommend,Negative Outlook,Missing,grant_thornton,1,1,1,1,1,2015,Former Employee,anonymous employee,tampa,More than a year,unknown,unknown
+5,,,,grant_thornton,2,2,5,5,4,2015,Former Employee,executive assistant,fort lauderdale,Missing,staff,other
+5,Recommends,Positive Outlook,Missing,grant_thornton,4,5,5,4,5,2016,Current Employee,audit associate,jacksonville,Less than a year,associate,audit
+2,Doesn't Recommend,Negative Outlook,Missing,grant_thornton,1,2,3,3,2,2016,Former Employee,audit associate,miami,Less than a year,associate,audit
+3,Recommends,Positive Outlook,Missing,grant_thornton,3,4,5,4,3,2016,Former Employee,senior manager advisory,miami,Missing,manager,advisory
+4,Recommends,Positive Outlook,Missing,grant_thornton,4,4,4,3,4,2017,Current Employee,audit senior associate,fort lauderdale,More than 3 years,associate,audit
+5,Recommends,Missing,Missing,bdo,5,,5,5,5,2010,Current Employee,administrative assistant,miami,Missing,staff,other
+1,Doesn't Recommend,Missing,No opinion of CEO,bdo,1,,1,1,1,2012,Former Employee,anonymous employee,miami,Missing,unknown,unknown
+3,Missing,Neutral Outlook,No opinion of CEO,bdo,1,3,4,3,2,2012,Current Employee,assurance senior associate,miami,More than a year,associate,audit
+5,Recommends,Positive Outlook,Missing,bdo,4,5,5,4,5,2014,Current Employee,tax associate,west palm beach,More than a year,associate,tax
+4,Recommends,Positive Outlook,Missing,bdo,3,4,3,3,3,2015,Current Employee,assurance senior associate,miami,More than 3 years,associate,audit
+1,Doesn't Recommend,Negative Outlook,Missing,bdo,3,1,3,3,1,2015,Former Employee,audit associate,miami,Missing,associate,audit
+1,Doesn't Recommend,Neutral Outlook,Missing,bdo,1,1,2,3,1,2015,Former Employee,associate,miami,Less than a year,associate,unknown
+5,Recommends,Positive Outlook,Missing,bdo,3,4,3,3,5,2016,Current Employee,desktop support technician,orlando,Missing,,other
+5,Recommends,Positive Outlook,Missing,bdo,4,5,5,4,5,2017,Current Employee,assurance manager,miami,More than 3 years,manager,audit
+3,Missing,Missing,No opinion of CEO,crowe,2.5,,4,2.5,2.5,2010,Current Employee,anonymous employee,fort lauderdale,Missing,unknown,unknown
+3,Recommends,Missing,Disapproves of CEO,crowe,1.5,,3,4,3.5,2010,Former Employee,senior auditor,fort lauderdale,Missing,associate,audit
+2,Doesn't Recommend,Missing,No opinion of CEO,crowe,3,,3,3,1,2010,Former Employee,staff auditor,fort lauderdale,Missing,associate,audit
+3,Missing,Missing,No opinion of CEO,crowe,3,,3,2,3.5,2011,Current Employee,audit senior associate,fort lauderdale,Missing,associate,audit
+4,Recommends,Missing,Approves of CEO,crowe,4,,4,3.5,4,2012,Current Employee,anonymous employee,fort lauderdale,Missing,unknown,unknown
+3,Doesn't Recommend,Neutral Outlook,Missing,crowe,4,3,4,2,2,2012,Current Employee,audit associate,fort lauderdale,More than a year,associate,audit
+4,Recommends,Neutral Outlook,Missing,crowe,2,3,3,5,3,2013,Former Employee,property tax paraprofessional,fort lauderdale,More than 8 years,unknown,tax
+5,Recommends,Positive Outlook,Missing,crowe,5,5,5,5,5,2014,Current Employee,staff auditor,tampa,Less than a year,associate,audit
+4,Recommends,Positive Outlook,Missing,crowe,4,4,5,3,5,2015,Current Employee,audit senior associate,fort lauderdale,More than 5 years,associate,audit
+5,Recommends,Positive Outlook,Missing,crowe,4,4,4,4,4,2015,Current Employee,manager,tampa,Less than a year,manager,unknown
+3,Recommends,Neutral Outlook,Missing,crowe,4,5,3,3,3,2015,Former Employee,audit staff,tampa,More than a year,associate,audit
+2,Recommends,Positive Outlook,Missing,crowe,1,2,1,3,1,2015,Former Employee,it auditor,fort lauderdale,More than a year,associate,other
+2,Doesn't Recommend,Missing,No opinion of CEO,crowe,5,2,3,3,2,2015,Former Employee,audit staff,fort lauderdale,Less than a year,associate,audit
+3,Doesn't Recommend,Positive Outlook,Missing,crowe,3,3,3,4,3,2015,Current Employee,tax,tampa,More than 3 years,unknown,tax
+5,Recommends,Positive Outlook,Missing,crowe,5,5,5,5,5,2016,Current Employee,staff accountant,fort lauderdale,Less than a year,associate,audit
+4,Recommends,Positive Outlook,Missing,crowe,5,4,5,3,4,2017,Current Employee,audit manager,fort lauderdale,Less than a year,manager,audit
+3,Doesn't Recommend,Neutral Outlook,Missing,crowe,3,1,4,2,3,2017,Former Employee,accountant,fort lauderdale,More than a year,unknown,audit
+5,Recommends,Positive Outlook,Missing,crowe,3,5,5,4,4,2017,Former Employee,senior staff,fort lauderdale,More than 3 years,associate,audit
+4,Recommends,Missing,Approves of CEO,mcgladrey,3,,5,3,4,2008,Current Employee,consulting senior associate,orlando,Missing,associate,advisory
+5,Recommends,Missing,Approves of CEO,mcgladrey,5,,5,5,5,2010,Current Employee,audit associate,orlando,Missing,associate,audit
+3,Missing,Neutral Outlook,No opinion of CEO,mcgladrey,2,2,3,3,2,2012,Former Employee,tax associate,fort lauderdale,More than a year,associate,tax
+4,Recommends,Positive Outlook,Missing,mcgladrey,4,4,4,3,4,2013,Current Employee,assurance associate,jacksonville,More than a year,associate,audit
+4,Recommends,Positive Outlook,Missing,mcgladrey,2,5,5,3,5,2014,Current Employee,audit associate,jacksonville,More than a year,associate,audit
+4,Recommends,Positive Outlook,Missing,mcgladrey,3,5,5,4,4,2015,Former Employee,tax associate,miami,Missing,associate,tax
+4,Recommends,Positive Outlook,Missing,mcgladrey,3,4,4,3,3,2015,Current Employee,anonymous employee,jacksonville,Less than a year,unknown,unknown
+4,Recommends,Positive Outlook,Missing,mcgladrey,5,5,4,5,4,2015,Current Employee,administrative assistant,orlando,Missing,staff,other
+5,Recommends,Positive Outlook,Missing,mcgladrey,5,5,5,5,5,2015,Current Employee,anonymous employee,miami,Missing,unknown,unknown
+4,Recommends,Positive Outlook,Missing,mcgladrey,4,5,4,3,4,2015,Current Employee,assurance associate,miami,More than a year,associate,audit
+4,Recommends,Neutral Outlook,Missing,mcgladrey,3,4,4,3,3,2016,Former Employee,audit manager,miami,More than 5 years,manager,audit
+5,Recommends,Positive Outlook,Missing,mcgladrey,3,4,4,3,3,2016,Former Employee,auditor,orlando,More than a year,unknown,audit
