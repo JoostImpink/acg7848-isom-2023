@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>{{page_title_text}}</title>
+    </head>
+    <body>
+            <h1>{{title_text}}</h1>
+            <h2>{{prices_text}}</h2>
+            {% for token in tokens %}
+          
+               <h2>{{token['slug']}} - {{token['name']}} </h2>
+               <h3> {{token['priceChange']['priceChange24h']}}</h3>
+            
+            {% endfor %}
+    </body>
+</html>
