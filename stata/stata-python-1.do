@@ -94,6 +94,20 @@ python: results.append ( getResults('at') )
 
 python: print(results)
 
+// how about a correlation?
+// pwcorr: pairwise correlation
+pwcorr roa mtb , sig
+// show what is being stored
+return list 
+// let's access the sigificance levels (p-values)
+python
+pvalues = Matrix.get('r(sig)') 
+print("The p-values are", pvalues)
+pvalue_0_1 = Matrix.get('r(sig)', 0, 1) 
+print("The p-value is: ", pvalue_0_1)
+end 
+
+
 // using a loop in Stata
 python: results = []
 
@@ -104,4 +118,24 @@ foreach v in ni ceq at {
 
 python: print(results)
 
+// nested loops
+
+foreach v in ni ceq at {
+
+	// start at 1, increment with steps of 1, through 5
+	forvalues i = 1(1)5  {
+		
+		python: print("`v'", "`i'")
+		
+	}
+}
+
+// put unique values in a list
+levelsof sich, local(levels)
+// now loop through the list
+foreach l of local levels {
+	// do something else
+	// like: command .... if sich == `l'
+	pwcorr ni sale if sich == `l'
+}
 
