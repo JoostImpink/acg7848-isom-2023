@@ -29,6 +29,7 @@ reg ret roa mtb growth i.mcap_d i.fyear if loss == 0
 reg ret roa mtb growth i.mcap_d i.fyear if loss == 1
 
 // winsorize
+// findit winsorize
 winsor ret, gen(ret_w) p(0.01)
 winsor roa, gen(roa_w) p(0.01)
 winsor mcap, gen(mcap_w) p(0.01)
@@ -62,7 +63,7 @@ eststo: reg ret_w roa_w mcap_w mtb_w growth_w i.fyear
 eststo: reg ret_w roa_w        mtb_w growth_w i.mcap_d i.fyear
 
 // make sure the folder exists
-esttab using E:\temp_acg7848\stata_output_table.csv, b(3) t(2) star(* 0.10 ** 0.05 *** 0.01) r2
+esttab using E:\temp_acg7848\stata_output_table2.csv, b(3) t(2) star(* 0.10 ** 0.05 *** 0.01) r2
 
 // logistic regression (binary dependent variable)
 
@@ -89,10 +90,16 @@ predict cook, cooksd, if e(sample)
 // cutoff: 4 / n-k, where n is number of observations and k is #independent variables (including intercept)
 // number of observations in sample dataset
 count
+// 30,489
 // rerun regression without leverage points
-reg ret_w roa_w mtb_w growth_w i.mcap_d i.fyear if cook < 4/ (46805-8)
+reg ret_w roa_w mtb_w growth_w i.mcap_d i.fyear if cook < 4/ (46805-8) // <<<<
+reg ret_w roa_w mtb_w growth_w i.mcap_d i.fyear if cook < 4/ (30489-8)
 // browse leverage points that were excluded
 browse if cook > 4/ (46805-8)
+
+browse if cook > 4/ (30489-8)
+
+
 
 // Ranked regression
 
@@ -103,6 +110,7 @@ egen ret_r = rank(ret)
 egen mtb_r = rank(mtb)
 egen growth_r = rank(growth)
 
+egen ret_wr = rank(ret_w)
 
 sort ret
 browse ret ret_r
